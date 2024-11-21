@@ -41,6 +41,28 @@ let booleanLogIn=Boolean(logIn)
 
 let num=33
 let stringNum=String(num)
-console.log(typeof stringNum);
-console.log(stringNum);
+//console.log(typeof stringNum);
+//console.log(stringNum);
+
+//    operation
+
+//console.log(2+2);
+//console.log(2-2);
+//console.log(2*2);
+//console.log(2**3);
+//console.log(2/3);
+//console.log(2%3);
+
+let str1="hello"
+let str2=" aman"
+let str=str1+str2
+//console.log(str);
+
+console.log("1"+2);
+console.log(1+"2");
+console.log("1"+1+2);
+console.log(1+1+"2");
+
+console.log(+true);
+console.log(+"");
 
